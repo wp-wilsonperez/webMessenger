@@ -10,3 +10,4 @@ bower_component
 .idea
 .idea/
 .idea/vcs.xml
+package-lock.json
