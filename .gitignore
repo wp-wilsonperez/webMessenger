@@ -1,2 +1,12 @@
-.idea
+typings
+app/**/*.js
+app/**/*.map
+/node_modules
 node_modules
+jspm_packages
+bower_component
+.editor-config
+.vscode
+.idea
+.idea/
+.idea/vcs.xml
